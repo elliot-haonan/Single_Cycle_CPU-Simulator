@@ -16,3 +16,6 @@ To run the CPU simulator, run the following command:
 ```
 ## Input 
 An example of input file is given in the "trace.txt". Each line is an unsigned integer and is 1 byte of an RISC-V instruction stored in little-endian. 
+
+## Output
+The output of the program is given by (a0,a1), which is the value of register a0 and a1.
