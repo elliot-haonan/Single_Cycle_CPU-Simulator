@@ -14,3 +14,5 @@ To run the CPU simulator, run the following command:
 ```bash
 ./cpusim <inputfile.txt>
 ```
+## Input 
+An example of input file is given in the "trace.txt"
