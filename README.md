@@ -15,4 +15,4 @@ To run the CPU simulator, run the following command:
 ./cpusim <inputfile.txt>
 ```
 ## Input 
-An example of input file is given in the "trace.txt"
+An example of input file is given in the "trace.txt". Each line is an unsigned integer and is 1 byte of an RISC-V instruction stored in little-endian. 
